@@ -1,1 +1,5 @@
-docs/STM32F103C8T6/Others
+docs/STM32F103C8T6/Others/
+
+stm32_timersync-open/USER/RTE/
+
+32hex/
